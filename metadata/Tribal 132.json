@@ -1,0 +1,39 @@
+{
+  "name": "Tribal 132",
+  "description": "Just based on Tribals, just that.",
+  "external_url": "",
+  "image": "tribal-132.png",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "purblue.PNG"
+    },
+    {
+      "trait_type": "skins",
+      "value": "brown skins.PNG"
+    },
+    {
+      "trait_type": "face",
+      "value": "loving .PNG"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "yellow grays.PNG"
+    },
+    {
+      "trait_type": "accessories",
+      "value": "eth cap.PNG"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "tribal-132.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Tribal 551",
+  "description": "Just based on Tribals, just that.",
+  "external_url": "",
+  "image": "tribal-551.png",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "yellow.PNG"
+    },
+    {
+      "trait_type": "skins",
+      "value": "origin skins.PNG"
+    },
+    {
+      "trait_type": "face",
+      "value": "smiles.PNG"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "green blues.PNG"
+    },
+    {
+      "trait_type": "accessories",
+      "value": "headset.PNG"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "tribal-551.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

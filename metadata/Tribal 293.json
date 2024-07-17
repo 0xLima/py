@@ -1,0 +1,39 @@
+{
+  "name": "Tribal 293",
+  "description": "Just based on Tribals, just that.",
+  "external_url": "",
+  "image": "tribal-293.png",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "red.PNG"
+    },
+    {
+      "trait_type": "skins",
+      "value": "brown skins.PNG"
+    },
+    {
+      "trait_type": "face",
+      "value": "humping.PNG"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "red blues.PNG"
+    },
+    {
+      "trait_type": "accessories",
+      "value": "base cap.PNG"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "tribal-293.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

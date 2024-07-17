@@ -1,0 +1,31 @@
+{
+  "name": "Tribal 28",
+  "description": "Just based on Tribals, just that.",
+  "external_url": "",
+  "image": "tribal-28.png",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "cream.PNG"
+    },
+    {
+      "trait_type": "skins",
+      "value": "pink skins.PNG"
+    },
+    {
+      "trait_type": "face",
+      "value": "loving .PNG"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "tribal-28.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

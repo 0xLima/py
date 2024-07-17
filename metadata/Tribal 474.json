@@ -1,0 +1,39 @@
+{
+  "name": "Tribal 474",
+  "description": "Just based on Tribals, just that.",
+  "external_url": "",
+  "image": "tribal-474.png",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "purblue.PNG"
+    },
+    {
+      "trait_type": "skins",
+      "value": "mint skins.PNG"
+    },
+    {
+      "trait_type": "face",
+      "value": "dizzies.PNG"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "green blues.PNG"
+    },
+    {
+      "trait_type": "accessories",
+      "value": "fired.PNG"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "tribal-474.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

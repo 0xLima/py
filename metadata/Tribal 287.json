@@ -1,0 +1,39 @@
+{
+  "name": "Tribal 287",
+  "description": "Just based on Tribals, just that.",
+  "external_url": "",
+  "image": "tribal-287.png",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "pink.PNG"
+    },
+    {
+      "trait_type": "skins",
+      "value": "origin skins.PNG"
+    },
+    {
+      "trait_type": "face",
+      "value": "dizzies.PNG"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "blueskies.PNG"
+    },
+    {
+      "trait_type": "accessories",
+      "value": "red haps.PNG"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "tribal-287.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

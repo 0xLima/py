@@ -1,0 +1,31 @@
+{
+  "name": "Tribal 554",
+  "description": "Just based on Tribals, just that.",
+  "external_url": "",
+  "image": "tribal-554.png",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "green.PNG"
+    },
+    {
+      "trait_type": "skins",
+      "value": "brown skins.PNG"
+    },
+    {
+      "trait_type": "face",
+      "value": "cried.PNG"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "tribal-554.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

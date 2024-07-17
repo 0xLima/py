@@ -1,0 +1,31 @@
+{
+  "name": "Tribal 101",
+  "description": "Just based on Tribals, just that.",
+  "external_url": "",
+  "image": "tribal-101.png",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "sky.PNG"
+    },
+    {
+      "trait_type": "skins",
+      "value": "origin skins.PNG"
+    },
+    {
+      "trait_type": "face",
+      "value": "smiles.PNG"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "tribal-101.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

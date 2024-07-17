@@ -1,0 +1,39 @@
+{
+  "name": "Tribal 170",
+  "description": "Just based on Tribals, just that.",
+  "external_url": "",
+  "image": "tribal-170.png",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "green.PNG"
+    },
+    {
+      "trait_type": "skins",
+      "value": "gold skins.PNG"
+    },
+    {
+      "trait_type": "face",
+      "value": "loving .PNG"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "green blues.PNG"
+    },
+    {
+      "trait_type": "accessories",
+      "value": "btc cap.PNG"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "tribal-170.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

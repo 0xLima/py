@@ -1,0 +1,35 @@
+{
+  "name": "Tribal 51",
+  "description": "Just based on Tribals, just that.",
+  "external_url": "",
+  "image": "tribal-51.png",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "purblue.PNG"
+    },
+    {
+      "trait_type": "skins",
+      "value": "mint skins.PNG"
+    },
+    {
+      "trait_type": "face",
+      "value": "laughing.PNG"
+    },
+    {
+      "trait_type": "accessories",
+      "value": "crowns.PNG"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "tribal-51.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}
