@@ -4,11 +4,11 @@ import os
 # Path to the metadata directory
 metadata_directory = 'metadata'
 
-# CID for the IPFS
-cid_ipfs = 'QmPr1FVzMTuRn42D3qPvThF1BNc1svgHRHKUeMTenQACqg'
+# Base URL for the IPFS link
+base_url = 'ipfs://QmPr1FVzMTuRn42D3qPvThF1BNc1svgHRHKUeMTenQACqg'
 
-def update_image_link(token_id, cid_ipfs):
-    return f'{cid_ipfs}/tribal-{token_id}.png'
+def update_image_link(token_id, base_url):
+    return f'{base_url}/tribal-{token_id}.png'
 
 # Iterate over each file in the metadata directory
 for filename in os.listdir(metadata_directory):
@@ -20,7 +20,7 @@ for filename in os.listdir(metadata_directory):
             data = json.load(file)
         
         # Update the "image" field
-        data['image'] = update_image_link(data['tokenId'], cid_ipfs)
+        data['image'] = update_image_link(data['tokenId'], base_url)
         
         # Write the updated data back to the same JSON file
         with open(file_path, 'w') as file:
